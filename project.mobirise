@@ -29,7 +29,9 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-size": "36px"
+              "font-size": "48px",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
             },
             ".nav .link, .dropdown-item": {
               "font-size": "1.2em",
@@ -106,7 +108,14 @@
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-2"
+          "_anchor": "content5-2",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            }
+          }
         },
         {
           "_params": {
@@ -134,7 +143,14 @@
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-c"
+          "_anchor": "content5-c",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_params": {

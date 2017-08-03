@@ -1,10 +1,14 @@
 @import url(../../../https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
 
+
+
+
 #dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
 }
 #dropdown-menu-0 .navbar-brand a {
-  font-size: 36px;
+  font-size: 48px;
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #dropdown-menu-0 .nav .link,
 #dropdown-menu-0 .dropdown-item {
@@ -23,4 +27,12 @@
 }
 #dropdown-menu-0 .navbar-toggler {
   color: #000000;
+}
+#content5-2 .mbr-section-title {
+  font-size: 36px;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#content5-c .mbr-section-title {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 36px;
 }
