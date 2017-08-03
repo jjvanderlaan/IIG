@@ -102,7 +102,7 @@
             "overlayOpacity": 0.7
           },
           "title": "Introduction",
-          "caption": "<p>This guide provides instructions on how to find out information about the following, using a large number of &nbsp;Open Source Intelligence (OSINT) tools:</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 1. persons</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 2. entities (corporations, business and other organizations)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 3. electronic records (images, electronic documents etc.)</p><p>This document is updated from time to time. If you wish to be notified of updates, please <a href=\"http://eepurl.com/AD6kT\" target=\"_blank\">subscribe to the mailing list</a>. \n</p>",
+          "caption": "<p>This guide provides instructions on how to find out information about persons, entities, and things (websites, emails, files, etc.), using a large number of &nbsp;Open Source Intelligence (OSINT) tools.</p><p>This document is updated from time to time. If you wish to be notified of updates, please <a href=\"http://eepurl.com/AD6kT\" target=\"_blank\">subscribe to the mailing list</a>. \n</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -137,7 +137,7 @@
             "overlayOpacity": 0.7
           },
           "title": "How to use this guide",
-          "caption": "<p>This guide is one page, divided into four sections: setting up; persons; sites; and things. &nbsp;Links to these in the top menu. &nbsp;If you want to search the page for a particular something, hit CTRL-F (or Command-F on a Mac) in most browsers.</p>",
+          "caption": "<p>This guide is one page, divided into five sections: setting up, persons, entities, and things. &nbsp;Links to these in the top menu. &nbsp;If you want to search the page for a particular something, hit <b>CTRL-F </b>(or <b>Command-F</b> on a Mac) in most browsers.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
