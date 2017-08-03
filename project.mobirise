@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.0.17",
-    "uniqCompNum": 12,
+    "uniqCompNum": 13,
     "versionPublish": "4.0.17"
   },
   "pages": {
@@ -62,7 +62,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Introduction</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-4\" aria-expanded=\"false\">Search</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-4\" aria-expanded=\"false\">People</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Entities</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sites</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Things</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-4\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-4\" aria-expanded=\"false\">Setting up</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Persons</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sites</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Things</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -85,7 +85,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -100,13 +100,41 @@
             "overlayOpacity": 0.7
           },
           "title": "Introduction",
-          "caption": "<p>This guide provides an introductory roadmap for conducting investigations using a large number of (mostly free) Open Source Intelligence (OSINT) tools.  It should enable someone with basic computer skills to gather meaningful information about a person, entity or many forms of electronic records, online. </p><p> \nIt is important to state at the outset, that if any of the information gathered is to be used as evidence, it is important to consult a properly trained computer forensics professional to ensure that the continuity and integrity of the evidence is maintained, consistent with the evidentiary requirements in the applicable jurisdiction. </p><p>This document is updated from time to time. If you wish to be notified of updates, please <a href=\"http://eepurl.com/AD6kT\" target=\"_blank\">subscribe to the mailing list</a>. \n</p>",
+          "caption": "<p>This guide provides instructions on how to find out information about the following, using a large number of &nbsp;Open Source Intelligence (OSINT) tools:</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 1. persons</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 2. entities (corporations, business and other organizations)</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 3. electronic records (images, electronic documents etc.)</p><p>This document is updated from time to time. If you wish to be notified of updates, please <a href=\"http://eepurl.com/AD6kT\" target=\"_blank\">subscribe to the mailing list</a>. \n</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
           "_anchor": "content5-2"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/jake/Library/Application%20Support/Mobirise.com/Mobirise/projectData/photo-3_1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "How to use this guide",
+          "caption": "<p>This guide is one page, divided into four sections: setting up; persons; sites; and things. &nbsp;Links to these in the top menu. &nbsp;If you want to search the page for a particular something, hit CTRL-F (or Command-F on a Mac) in most browsers.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-c"
         },
         {
           "_params": {
