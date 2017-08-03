@@ -9,7 +9,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "4.0.17",
-    "uniqCompNum": 13,
+    "uniqCompNum": 15,
     "versionPublish": "4.0.17"
   },
   "pages": {
@@ -64,7 +64,7 @@
             },
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-4\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-4\" aria-expanded=\"false\">Setting up</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Persons</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sites</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Things</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-4\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-4\" aria-expanded=\"false\">Setting up</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Persons</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Entities</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Things</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-3\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -122,7 +122,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "file:///Users/jake/Library/Application%20Support/Mobirise.com/Mobirise/projectData/photo-3_1.jpg",
             "parallax": true,
@@ -137,7 +137,7 @@
             "overlayOpacity": 0.7
           },
           "title": "How to use this guide",
-          "caption": "<p>This guide is one page, divided into five sections: setting up, persons, entities, and things. &nbsp;Links to these in the top menu. &nbsp;If you want to search the page for a particular something, hit <b>CTRL-F </b>(or <b>Command-F</b> on a Mac) in most browsers.</p>",
+          "caption": "<p>This guide is one page, divided into three sections: persons, entities, and things. &nbsp;Links to these sections are in the top menu. &nbsp;<span style=\"font-size: 1.25rem;\">The topics are organized as statements describing the outcome.&nbsp;</span><span style=\"font-size: 1.25rem;\">If you want to search the page for a particular something, hitting &nbsp;</span><b style=\"font-size: 1.25rem;\">CTRL-F </b><span style=\"font-size: 1.25rem;\">(or </span><b style=\"font-size: 1.25rem;\">Command-F</b><span style=\"font-size: 1.25rem;\"> on a Mac) should give you access to the search functionality of your browser. &nbsp;Keep the search short (try one word first) and you should be able to find what you need quickly.</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -151,6 +151,76 @@
               "font-size": "36px"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/jake/Library/Application%20Support/Mobirise.com/Mobirise/projectData/photo-3_2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "<b>Persons</b>",
+          "caption": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "content5-d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "file:///Users/jake/Library/Application%20Support/Mobirise.com/Mobirise/projectData/photo-3_2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Find a person's email address",
+          "caption": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-size": "36px"
+            }
+          },
+          "_anchor": "content5-e"
         },
         {
           "_params": {
@@ -278,8 +348,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Contact Form",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Us</a>",
+          "title": "Send us a message",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "form": {
             "action": "jake.vanderlaan@gmail.com",
             "alerts": {
@@ -312,7 +382,14 @@
             "Theme"
           ],
           "_name": "form1",
-          "_anchor": "form1-3"
+          "_anchor": "form1-3",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext",
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_params": {
@@ -327,7 +404,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "DISCLAIMER: Nothing on this page constitutes legal advice. &nbsp;No representations or warranties are made with respect to the completeness, accuracy or efficacy of any of the information referenced on this site. Use at your own risk.",
+          "text": "DISCLAIMER: &nbsp;No representations or warranties are made with respect to the completeness, accuracy or efficacy of any of the information referenced on this site. Use at your own risk.",
           "alias": "purity/components",
           "_tags": [
             "Theme"
